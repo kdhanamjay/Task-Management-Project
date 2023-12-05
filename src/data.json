@@ -1,0 +1,74 @@
+{
+  "boards": [
+    
+    {
+      "name": "Marketing Plan",
+      "isActive" : false,
+      "columns": [
+        {
+          "name": "Todo",
+          "tasks": [
+            {
+              "title": "Plan Product Hunt launch",
+              "description": "",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Find hunter",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Gather assets",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Draft product page",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Notify customers",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Notify network",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Launch!",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Share on Show HN",
+              "description": "",
+              "status": "",
+              "subtasks": [
+                {
+                  "title": "Draft out HN post",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Get feedback and refine",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Publish post",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "In Progress",
+          "tasks": []
+        },
+        {
+          "name": "Done",
+          "tasks": []
+        }
+      ]
+    }
+  ]
+}
